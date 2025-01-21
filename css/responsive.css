@@ -1,0 +1,26 @@
+@media screen and (max-width: 520px) {
+
+    html {
+        font-size: 82.75%;
+    }
+
+    .card{
+        flex-direction: column;
+        height: 100%;
+        width: 100%;
+        margin: 1.225rem;
+    }
+
+    .illustration {
+        height: 20rem;
+        max-width: 100%;
+        object-fit: cover;
+        border-bottom-left-radius: 0;
+        border-top-right-radius: 0.625rem;
+    }
+
+    .name {
+        padding-right: 0;
+    }
+
+}
