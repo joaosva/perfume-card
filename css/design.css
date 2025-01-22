@@ -90,7 +90,7 @@ body{
 }
 
 .buy-btn:hover{
-    background-color: hsl(159, 35%, 21%);
+    background-color: hsl(160, 35%, 19%);
     cursor: pointer;
 }
 
